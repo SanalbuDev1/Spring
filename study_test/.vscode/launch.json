@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-StudyTestApplication<study_test>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.study.santynet.study_test.StudyTestApplication",
+            "projectName": "study_test",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

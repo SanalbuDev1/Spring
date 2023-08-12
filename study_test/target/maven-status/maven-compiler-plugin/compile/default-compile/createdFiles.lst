@@ -1,0 +1,13 @@
+com\study\santynet\study_test\dependency_injection\VehicleForAtribbute.class
+com\study\santynet\study_test\dependency_injection\EngineForConstructor.class
+com\study\santynet\study_test\qualifiers\Avion.class
+com\study\santynet\study_test\StudyTestApplication.class
+com\study\santynet\study_test\dependency_injection\EngineForSetter.class
+com\study\santynet\study_test\dependency_injection\EngineForAtribbute.class
+com\study\santynet\study_test\qualifiers\Pajaro.class
+com\study\santynet\study_test\dependency_injection\VehicleForConstructor.class
+com\study\santynet\study_test\qualifiers\Animal.class
+com\study\santynet\study_test\qualifiers\Perro.class
+com\study\santynet\study_test\qualifiers\Volador.class
+com\study\santynet\study_test\controllers\HelloWorld.class
+com\study\santynet\study_test\dependency_injection\VehicleForSetter.class
